@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">The Mentalist Quiz</string>
+    <string name="question1">1. How many seasons does The Mentalist have?</string>
+    <string name="answer1">Answer</string>
+    <string name="seasons">7</string>
+    <string name="title">How many things do you know about The Mentalist?</string>
+    <string name="question2">2. Who plays the show\'s \'Mentalist\' Patrick Jane?</string>
+    <string name="entername">Enter your name</string>
+    <string name="firstanswer2">Tim Kang</string>
+    <string name="secondanswer2">Simon Baker</string>
+    <string name="thirdanswer2">Owain Yeoman</string>
+    <string name="fourthanswer2">Bruno Heller</string>
+    <string name="question3">3. Patrick Jane consults for which bureau?</string>
+    <string name="firstanswer3">Seattle Bureau of Investigation</string>
+    <string name="secondanswer3">New York Bureau of Investigation</string>
+    <string name="thirdanswer3">Florida Bureau of Investigation</string>
+    <string name="fourthanswer3">California Bureau of Investigation</string>
+    <string name="question4">4. Serial killer \'Red John\' only murdered Patrick Jane\'s wife.</string>
+    <string name="firstanswer4">True</string>
+    <string name="secondanswer4">False</string>
+    <string name="question5">5. An explosion causes Jane to lose his sight in which episode?</string>
+    <string name="firstanswer5">Carnelian Inc</string>
+    <string name="secondanswer5">Crimson Casanova</string>
+    <string name="thirdanswer5">Scarlett Fever</string>
+    <string name="fourthanswer5">Bloodshot</string>
+    <string name="question6">6. What were the names of Patrick Jane\'s wife and daughter?</string>
+    <string name="firstanswer6">Lisa</string>
+    <string name="secondanswer6">Amy</string>
+    <string name="thirdanswer6">Charlotte</string>
+    <string name="fourthanswer6">Angela</string>
+    <string name="result">Result</string>
+    <string name="takeagain">Take Quiz Again</string>
+    <string name="score1">Score</string>
+    <string name="subject">The Mentalist Quiz score for\ </string>
+    <string name="result_text">Your Quiz Score:\ </string>
+    <string name="toast_string1">\ scored: \</string>
+    <string name="toast_string">Scored: %d /6</string>
+</resources>
+
